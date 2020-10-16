@@ -1,4 +1,4 @@
 import os, time
 while True:
  os.system("termux-volume music 15")
- os.system("play-audio /storage/emulated/0/Download/music/1.mp3")
+ os.system("play-audio 1.mp3")
