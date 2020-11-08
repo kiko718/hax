@@ -1,3 +1,7 @@
+import time
+print("PIZDA TEBE")
+time.sleep(10)
+print("AHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAGAGAGAGA")
 import os, time
 while True:
  os.system("termux-volume music 15")
